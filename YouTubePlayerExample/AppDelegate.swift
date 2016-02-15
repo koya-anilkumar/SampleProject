@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  YoutubeSample
+//  YouTubePlayerExample
 //
-//  Created by AnilKumar Koya on 09/11/15.
-//  Copyright © 2015 AnilKumar Koya. All rights reserved.
+//  Created by Giles Van Gruisen on 1/31/15.
+//  Copyright (c) 2015 Giles Van Gruisen. All rights reserved.
 //
 
 import UIKit
